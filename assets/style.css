@@ -1,0 +1,25 @@
+body {
+  background-color: "grey";
+  margin: -0.1%
+  }
+#outerWrap {
+position: relative;
+z-index: 0;
+background-color: #00CCFF;
+height: 400px;
+width: 650px;
+}
+
+
+
+#layer1 {
+position: absolute;
+z-index: 1;
+background-color: rgba(0, 0, 0, 0);
+height: 250px;
+width: 250px;
+
+}
+
+
+
